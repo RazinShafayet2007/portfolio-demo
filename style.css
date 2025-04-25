@@ -1,0 +1,127 @@
+#navbar {
+    background-color: black;
+    width: 445px;
+    height: 40px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    border-color: black;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+h1 {
+        font-size: 48px;
+        font-weight: 500;
+        margin-bottom: 25px;
+}
+
+.nav-option {
+    color: grey;
+    font-size: 14px;
+    text-decoration: none;
+    
+}
+
+p {
+    color: grey;
+}
+
+.link {
+    color: black;
+}
+
+.container {
+    width: 1100px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 130px;
+    padding: 0 40px 0 40px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, 
+               "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+.context {
+    width: 1100px;
+    height: 350px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0px;;
+}
+
+.context p {
+    margin-top: 0;
+    margin-bottom: 8px;
+    line-height: 1.2;   
+    font-size: 15px;;
+}
+
+button {
+    background-color: black;
+    color: white;
+    font-size: 14px;
+    height: 42px;
+    width: 150px;
+    margin-top: 20px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    vertical-align: middle;
+}
+
+.fa-house {
+    color: white;
+}
+
+.fa-hammer {
+    color: white;
+}
+
+.fa-envelope {
+    color:white;
+}
+
+.fa-hand-point-up {
+    color: white;
+}
+
+.fa-twitter {
+    color: black;
+    display: inline-block;
+    margin-left: 20px;
+    position: relative;
+    top: 12px;
+}
+
+.fa-github {
+    color: black;
+    display: inline-block;
+    margin-left: 20px;
+    position: relative;
+    top: 12px;
+
+}
+
+#navbar i {
+    margin-right: -25px;
+    vertical-align: middle;
+}
+
+button .fa-envelope {
+    font-size: 22px; /* Adjust size as needed */
+    vertical-align: middle; 
+    margin-right: 5px;/* Optional: aligns icon with text */
+}
+
+
+
+
+      
